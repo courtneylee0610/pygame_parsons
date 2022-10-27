@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page 2 Example (Variable Check Grader)
+title: PyGame Zero Collision
 ---
 
 Construct a program that checks to see if the bullet from tank1 has collided with the bullet from tank2. If it has:
